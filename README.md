@@ -1,0 +1,1 @@
+The placement management project simplifies the process of matching students with job opportunities. It consists of modules for students to apply for positions, coordinators to manage postings, and administrators to oversee system functionality. This system aims to streamline placement processes, benefiting students, coordinators, and administrators alike.
